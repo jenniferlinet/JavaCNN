@@ -23,3 +23,4 @@ It takes a about an hour to complete 100 iteration and get a precison of 97.8%
 
 ##Lisence
 	MIT
+ Changes 
